@@ -5,8 +5,8 @@ Program ini melakukan **manipulasi citra digital** menggunakan metode **peningka
 Tujuannya adalah membuat gambar terlihat **lebih berwarna**, cerah, dan tetap natural.
 ---
 ## 📂 File yang Dibutuhkan
-- `main.py` → source code
-- `input.jpg` → gambar yang kamu pilih dari file ZIP tugas
+- `steganografi.py` → source code
+- `img-2.jpeg` → gambar yang kamu pilih dari file ZIP tugas
 - Output otomatis: `output.jpg`
 ---
 ## 📦 Instalasi Library
@@ -61,7 +61,7 @@ Program menampilkan 3 jendela:
 ---
 ## 📝 Kontak
 Jika terjadi error “gambar tidak ditemukan”, pastikan:
-- Nama file gambar adalah **input.jpg**
+- Nama file gambar adalah **img-2.jpeg**
 - File berada pada folder yang sama dengan script
 ---
 ## ✔️ Status
